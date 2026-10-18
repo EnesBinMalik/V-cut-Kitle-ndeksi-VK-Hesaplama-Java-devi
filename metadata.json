@@ -1,0 +1,6 @@
+{
+  "name": "Vücut Kitle İndeksi (VKİ) Hesaplama & Java Ödevi",
+  "description": "Java ile boy ve kilo alarak Vücut Kitle İndeksi (VKİ) hesaplayan program, kaynak kodu ve etkileşimli simülatör. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
